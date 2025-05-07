@@ -1,0 +1,23 @@
+boardSize: 100
+
+snakes:
+  - head: 99
+    tail: 5
+  - head: 80
+    tail: 10
+  - head: 88
+    tail: 15
+
+ladders:
+  - bottom: 2
+    top: 38
+  - bottom: 15
+    top: 45
+  - bottom: 5
+    top: 55
+
+players:
+  - name: Deepak
+  - name: Taniya
+  - name: Kumkum
+  - name: Mukesh
